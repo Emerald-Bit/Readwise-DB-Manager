@@ -130,11 +130,10 @@ python main.py
 
 Next steps:
 
-- add database migration/setup scripts
-- expose all supported Readwise categories in the GUI
-- improve duplicate handling
-
-- package the app for desktop distribution
+- Add database migration/setup scripts.
+- Expose all supported Readwise categories in the GUI.
+- Improve duplicate handling.
+- Package the app for desktop distribution.
 
 ---
 
