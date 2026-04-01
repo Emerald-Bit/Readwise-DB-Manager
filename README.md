@@ -2,6 +2,9 @@
 
 Readwise DB Manager is a Python application equipped with both a Tkinter graphical user interface (GUI) and a Command-Line Interface (CLI). It allows you to fetch, manage, and search your saved documents, articles, and highlights from the Readwise API. Furthermore, it seamlessly syncs your data to both PostgreSQL and Snowflake databases and features an AI-powered assistant to query your saved collection.
 
+<img width="1000" height="729" alt="image" src="https://github.com/user-attachments/assets/ffb10a6e-a842-452b-bb92-f6b5d5f4ad8d" />
+
+
 ---
 
 ## Features
