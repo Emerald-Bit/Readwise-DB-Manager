@@ -19,6 +19,14 @@ Readwise DB Manager is a Python application equipped with both a Tkinter graphic
 
   - Fuzzy Search: Uses fuzzywuzzy to find similar matches even with typos or incomplete queries.
 - Ask AI: Integrates with OpenAI's gpt-4.1-mini to analyze and answer contextual questions based on your latest Readwise articles.
+
+## Demo videos
+
+### Readwise app demo 1
+<video src="https://github.com/user-attachments/assets/43e0efd9-a4cf-49b1-88c3-38f579ada3e9" controls width="700"></video>
+
+### Readwise app demo 2
+<video src="https://github.com/user-attachments/assets/160354be-2554-4bcb-8462-bcce70ed99f2" controls width="700"></video>
 ---
 
 ## Prerequisites
